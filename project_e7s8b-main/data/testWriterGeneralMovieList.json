@@ -1,0 +1,15 @@
+{
+    "movie": [
+        {
+            "review": "...",
+            "name": "Joker",
+            "rating": 7
+        },
+        {
+            "review": "...",
+            "name": "Batman",
+            "rating": 9
+        }
+    ],
+    "name": "My movielist"
+}
